@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+	cout << "sonni kiriting \n";
+	int a;
+	cout << "2-sonii kiritning";
+	cin >> a;
+	int b;
+	cin >> b;
+	cout << "javob" << a - b << a + b << '\n';
+	return 0;
+}
